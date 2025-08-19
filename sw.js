@@ -4,8 +4,7 @@
 const CACHE_NAME = 'catatan-keuangan-cache-v1';
 const urlsToCache = [
   '/',
-  '/index.html' 
-  // Anda bisa menambahkan URL lain di sini jika ada, seperti file CSS atau gambar utama
+  'https://catatan-keuangan-du.blogspot.com/'
 ];
 
 // Event install: menyimpan aset dasar ke cache
